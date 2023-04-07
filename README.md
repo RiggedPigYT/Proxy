@@ -1,4 +1,4 @@
-# Elixir Unblocke
+# Elixir Unblocker
 ### The goal to this is to get rid of internet censorchip
 
 # WARNING
